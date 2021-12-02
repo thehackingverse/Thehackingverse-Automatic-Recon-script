@@ -5,6 +5,7 @@
 [*]Note:This script automatically use python sqlmap.[*]
 [*]Running Command[*]
 bash thehackingverse.sh
+![banner pic of thehackingverse script](https://user-images.githubusercontent.com/86924237/144408105-700a51e4-09cb-4038-a7dc-31b32a095c30.png)
 
 [*]Thank you for using this script.[*]
 [*]CopyrightÂ© by 2021 thehackingverse[*]
