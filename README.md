@@ -32,4 +32,5 @@ bash thehackingverse.sh
 
 
 [*]Join our community on discord https://discord.gg/NQgHpCbAmM
+
 ################################################
