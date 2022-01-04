@@ -1,9 +1,9 @@
-sudo apt-get install lolcat
- figlet -f slant "thehackingverse" | lolcat  -a
 #!/bin/bash/ 
 #Copyright© by 2021 thehackingverse
 #####################################################
 mkdir thehackingverse ; cd thehackingverse 
+sudo apt-get install lolcat
+ figlet -f slant "thehackingverse" | lolcat  -a
 echo "[*]: This script is used for reconing & helps you in bug bounty. [*]
 [*]: This is automatic script & you have to just enter your target only once time.[*]
 [*]: Sit back & relax.[*]
