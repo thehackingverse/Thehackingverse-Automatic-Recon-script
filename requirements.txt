@@ -1,4 +1,0 @@
-lolcat
-figlet
-subfinder
-sqlmap
