@@ -1,4 +1,4 @@
- sudo apt-get install lolcat
+sudo apt-get install lolcat
  figlet -f slant "thehackingverse" | lolcat  -a
 #!/bin/bash/ 
 #Copyright© by 2021 thehackingverse
