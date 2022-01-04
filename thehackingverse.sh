@@ -18,7 +18,7 @@ echo "#####################################################"
 echo "[*] nmap finsih his job now  output is saved in thehackingverse/nmap.txt [*]"
 echo "#####################################################"
 #####################################################
-git clone  https://github.com/projectdiscovery/subfinder.git
+#git clone  https://github.com/projectdiscovery/subfinder.git
 figlet -f slant "starting" | lolcat
 subfinder -d $a -o subfind.txt
 echo "#####################################################"
@@ -45,7 +45,7 @@ echo " [*] Do you want to crawl with sqlmap ('y/n') [*]"
 read c
 if [[ $c -eq y ]]
 then 
-git clone https://github.com/sqlmapproject/sqlmap.git
+#git clone https://github.com/sqlmapproject/sqlmap.git
 cd sqlmap
 figlet -f slant " starting sqlmap" | lolcat
 python sqlmap.py $b --crawl 3 --batch --dump-all -o sqloutpt.txt
