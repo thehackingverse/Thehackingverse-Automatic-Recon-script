@@ -25,8 +25,6 @@ cd Thehackingverse-Automatic-Recon-script
 
 
 
-pip install -r requirements.txt
-
 
 
 
