@@ -1,7 +1,12 @@
 #!/bin/bash/ 
 #Copyright© by 2021 thehackingverse
 #####################################################
-mkdir thehackingverse ; cd thehackingverse 
+if [ -d thehhackingverse ];
+then
+cd thehackingverse
+else
+mkdir thehackingverse ; cd thehackingverse
+fi
 sudo apt-get install lolcat
  figlet -f slant "thehackingverse" | lolcat  -a
 echo "[*]: This script is used for reconing & helps you in bug bounty. [*]
