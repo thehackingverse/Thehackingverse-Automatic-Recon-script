@@ -14,7 +14,7 @@
 
 
 
-[*]Installation[*]
+# Installation
 
 
 git clone https://github.com/thehackingverse/Thehackingverse-Automatic-Recon-script.git
@@ -28,7 +28,7 @@ cd Thehackingverse-Automatic-Recon-script
 
 
 
-[*]Running Command[*]
+# Running Command
 
 
 
