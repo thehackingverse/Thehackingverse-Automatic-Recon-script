@@ -17,7 +17,7 @@ Note:This script automatically use python sqlmap.
 # Installation
 
 
-# cmd git clone https://github.com/thehackingverse/Thehackingverse-Automatic-Recon-script.git
+git clone https://github.com/thehackingverse/Thehackingverse-Automatic-Recon-script.git
 
 
 
